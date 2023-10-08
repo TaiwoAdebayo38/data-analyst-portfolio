@@ -1,3 +1,3 @@
 # data-analyst-portfolio
 ## Sales Management Project
-![](SaleManagement1/Salestable.jpg)
+![](salesreport/CustomerDetails.jpg)
